@@ -2533,7 +2533,7 @@
 				border-top: 0;
 			}
 
-			p {
+			.content-main {
 				text-align: justify;
 			}
 
@@ -2757,6 +2757,7 @@
 			position: absolute;
 			top: 0;
 			font-size: 1em;
+			padding: 0.8%;
 		}
 
 		#header a {
